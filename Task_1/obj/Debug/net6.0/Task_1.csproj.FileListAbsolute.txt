@@ -3,3 +3,13 @@ C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\obj\D
 C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
 C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
 C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\bin\Debug\net6.0\Task_1.exe
+C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\bin\Debug\net6.0\Task_1.deps.json
+C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\bin\Debug\net6.0\Task_1.dll
+C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\bin\Debug\net6.0\Task_1.pdb
+C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\obj\Debug\net6.0\Task_1.dll
+C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\obj\Debug\net6.0\Task_1.pdb
+C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+C:\Users\agzam\OneDrive\Рабочий стол\UNITILED\Final work\Task_1\obj\Debug\net6.0\ref\Task_1.dll
